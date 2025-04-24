@@ -1,0 +1,8 @@
+bitcoin prediction:
+https://www.kaggle.com/datasets/team-ai/bitcoin-price-prediction
+
+Agriculture crop image classification:
+https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification
+
+TESS:
+https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
